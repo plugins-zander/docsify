@@ -1,3 +1,4 @@
+> From <https://www.jsdelivr.com/package/npm/docsify> v4.11.4
 <p align="center">
   <a href="https://docsify.js.org">
     <img alt="docsify" src="https://github.com/docsifyjs/docsify/blob/develop/docs/_media/icon.svg">
